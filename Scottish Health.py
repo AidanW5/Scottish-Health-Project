@@ -198,7 +198,7 @@ plt.bar(never_x, never, width=w, label='Never', color='goldenrod')
 plt.bar(lite_x, lite, width=w, label='Lite', color='salmon')
 plt.bar(moderate_x, moderate, width=w, label='Moderate', color='wheat')
 plt.bar(heavy_x, heavy, width=w, label='Heavy', color='firebrick')
-plt.bar(ex_x, ex, width=w, label='Ex', color='violet')
+plt.bar(ex_x, ex, width=w, label='Ex-Smoker', color='violet')
 
 #Set x and y labels
 plt.xlabel('Age Groups', fontweight='bold', fontsize=12, labelpad=20)
